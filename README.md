@@ -11,7 +11,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de problemas GitHub" 
             width="80px"
             heigth="auto"
-            style="padding-right: 5px;" 
+            style="padding-right: 10px;" 
             src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff"
         />
     </a>
@@ -21,7 +21,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de estrelas GitHub" 
             width="72px"
             heigth="auto"
-            style="padding-right: 5px;" 
+            style="padding-right: 10px;" 
             src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
         />
     </a>
@@ -31,7 +31,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de commits GitHub" 
             width="100px"
             heigth="auto"
-            style="padding-right: 5px;" 
+            style="padding-right: 10px;" 
             src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff"
         />
     </a>
@@ -41,7 +41,6 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de repositórios GitHub" 
             width="78px"
             heigth="auto"
-            style="padding-right: 5px;" 
             src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
         />
     </a>
