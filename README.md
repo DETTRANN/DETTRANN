@@ -11,7 +11,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de problemas GitHub" 
             width="80px"
             heigth="auto"
-            style="padding-right: 10px;" 
+            style="padding-right: 30px;" 
             src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff"
         />
     </a>
@@ -21,7 +21,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de estrelas GitHub" 
             width="72px"
             heigth="auto"
-            style="padding-right: 10px;" 
+            style="padding-right: 30px;" 
             src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
         />
     </a>
@@ -31,7 +31,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
             title="Total de commits GitHub" 
             width="100px"
             heigth="auto"
-            style="padding-right: 10px;" 
+            style="padding-right: 30px;" 
             src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff"
         />
     </a>
@@ -135,7 +135,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DETTRANN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -143,7 +143,7 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTRANN&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
