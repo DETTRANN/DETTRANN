@@ -7,8 +7,8 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
 <p align="left">
     <a href="https://github.com/DETTRANN?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de problemas" 
-            title="Total de problemas GitHub" 
+            alt="Problemas" 
+            title="Problemas GitHub" 
             width="80px"
             style="padding-right: 5px;" 
             src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff"
@@ -16,8 +16,8 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
     </a>
     <a href="https://github.com/DETTRANN?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Estrelas" 
+            title="Estrelas GitHub" 
             width="72px"
             style="padding-right: 5px;" 
             src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
@@ -25,8 +25,8 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
     </a>
     <a href="https://github.com/DETTRANN">
         <img 
-            alt="Total de commits" 
-            title="Total de commits GitHub" 
+            alt="Commits" 
+            title="Commits GitHub" 
             width="100px"
             style="padding-right: 5px;" 
             src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff"
@@ -34,8 +34,8 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
     </a>
     <a href="https://github.com/DETTRANN?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de repósitorios" 
-            title="Total de repositórios GitHub" 
+            alt="Repósitorios" 
+            title="Repositórios GitHub" 
             width="78px"
             style="padding-right: 5px;" 
             src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
