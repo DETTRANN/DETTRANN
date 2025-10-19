@@ -140,8 +140,8 @@ Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="220" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTRANN&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTRANN&theme=tokyonight&include_all_commits=true&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800&v=3" 
   />
 
 </p>
