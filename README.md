@@ -1,6 +1,6 @@
 # 🧑‍💻Daniel Godinho
 
-**`Aspirante a Desenvolvedor`**
+**`Desenvolvedor`**
 
 Me chamo Daniel, tenho 18 anos e sou natural de Minas Gerais. Atualmente, curso o 3º ano do Ensino Médio Técnico em Informática no Colégio Cotemig, com ênfase em Redes e Arquiteturas de Computadores. Estou aprimorando minhas habilidades em desenvolvimento web, explorando novas tecnologias e criando novos projetos.
 
